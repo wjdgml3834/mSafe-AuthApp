@@ -1,0 +1,99 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">mSafe Authenticator</string>
+    <string name="pin">PIN</string>
+    <string name="main_content">Main content</string>
+    <string name="content_desc_toggle_password_visibility">Toggle password visibility</string>
+    <string name="your_web_client_id">243983006374-8mu5d7a3q0jantudvv4kr5pfcum5bf57.apps.googleusercontent.com</string>
+    <string name="passwords_not_same">the passwords should be the same</string>
+    <string name="email_is_used">Email is already in use</string>
+    <string name="something_went_wrong">something went wrong</string>
+    <string name="faild_to_signUp">Sign up failed</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="google_sign_in">Sign in directly </string>
+    <string name="user_name">user name*</string>
+    <string name="go_to_sign_up">you do not have account? sign up</string>
+    <string name="register">Register*</string>
+    <string name="sign_in">Log in</string>
+    <string name="password_reset" translatable="false">reset your password</string>
+    <string name="wrong_qr" translatable="false">"Wrong Qr code"</string>
+    <string name="sucessfully_scanned" translatable="false">"Qr code successfully scanned"</string>
+    <string name="userLoggedIn" translatable="false">"user succesfully logged in "</string>
+    <string name="userLoggedOut" translatable="false">user succesfully logged out\n</string>
+    <string name="get_the_link" translatable="false">"get link"</string>
+    <string name="test" translatable="false">"Email was sent "</string>
+    <string name="confirm_yes" translatable="false">Yes</string>
+    <string name="confirm_no" translatable="false">No</string>
+    <string name="notification_exit" tools:ignore="MissingTranslation">Do you want to exit?</string>
+
+    <string name="welcome" translatable="false">Welcome!</string>
+    <string name="authenticator_app" translatable="false">Authenticator App</string>
+    <string name="home" translatable="false">Home</string>
+
+    <!-- settings screen-->
+    <string name="setting_title" translatable="false">Settings</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="history" translatable="false">History</string>
+    <string name="get_link" translatable="false">Get Link</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="select_a_language" translatable="false">Select a language:</string>
+
+    <!-- QrInfoScreen-->
+    <string name="qr_code_title" translatable="false">Use of QR code camera</string>
+    <string name="dear_user" translatable="false">Dear user,</string>
+    <string name="qr_inform" translatable="false">We would like to inform you that the camera is used for our app. This only applies to QR code scanning purposes. We do not store any video images. With your permission, biometrics are also used. This applies to both fingerprint scan and face recognition. Nothing is stored here either. Your privacy is of utmost importance to us and we want to assure you that our app only asks for the necessary permissions to guarantee fast and efficient use.</string>
+    <string name="qr_inform_contact" translatable="false">If you have any questions or comments, please do not hesitate to contact us.</string>
+    <string name="agree_terms_condition" translatable="false">I agree to the terms and conditions</string>
+
+    <!-- Profile Screen-->
+    <string name="user" translatable="false">User:  </string>
+    <string name="country" translatable="false">Country: Netherlands</string>
+    <string name="date_of_birth" translatable="false">Date of birth: 14/8/1993</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="logout" translatable="false">Logout</string>
+
+    <!-- Home screen   -->
+    <string name="logged_in_user" translatable="false">Logged in user:</string>
+    <string name="click_below_the_scan" translatable="false">Click on the button below to scan</string>
+    <string name="qr_computer_screen" translatable="false">the QR-code on your computer screen</string>
+    <string name="scan_qr_code" translatable="false">Scan QR-code</string>
+    <string name="instruction_pincode" translatable="false">Please enter the pincode on your</string>
+    <string name="computer_screen" translatable="false">computer screen</string>
+    <string name="user_pincode" translatable="false">Your pincode: </string>
+    <string name="confirm" translatable="false">Confirm</string>
+    <string name="exit_confirm" translatable="false">Do you want to exit?</string>
+
+    <!-- Biometrics Screen  -->
+    <string name="biometric_required" translatable="false">Biometric authentication required</string>
+    <string name="instruction_biometric" translatable="false">Use a fingerprint sensor or face recognition</string>
+    <string name="authenticate" translatable="false">Authenticate</string>
+    <string name="pincode_instruction" translatable="false">Please enter the pincode on your</string>
+    <string name="biometric_authentication_required" translatable="false">Biometric authentication required</string>
+    <string name="log_in_using_your_biometric_credential" translatable="false">Log in using your biometric credential</string>
+    <string name="back" translatable="false">Back</string>
+
+    <!-- qr screen   -->
+    <string name="please_scan_qr_code" translatable="false">Please scan the QR code</string>
+
+    <!-- successfull screen   -->
+    <string name="welcome_suc" translatable="false">Welcome!</string>
+    <string name="home_suc" translatable="false">Home</string>
+
+    <!--    //TTS-->
+    <!--    //TTS HomeScherm-->
+    <string name="homeScreen_1" translatable="false">Welcome to the msafe app.</string>
+    <string name="homeScreen_2" translatable="false">Logged in user: </string>
+    <string name="homeScreen_3" translatable="false">Click on the button below to scan the QR code on your computer screen.</string>
+
+    <!--    //TTS settings-->
+    <string name="settings_1" translatable="false">Settings</string>
+    <string name="explanation" translatable="false">These are the available settings:</string>
+    <string name="settings_2" translatable="false">Profile</string>
+    <string name="settings_option_1" translatable="false">Language</string>
+    <string name="settings_option_2" translatable="false">History</string>
+    <string name="settings_option_3" translatable="false">Get link</string>
+    <string name="settings_option_4" translatable="false">Share</string>
+
+</resources>

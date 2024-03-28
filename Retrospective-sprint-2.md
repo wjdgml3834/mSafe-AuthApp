@@ -1,1 +1,0 @@
-![image](uploads/b631795678e44b172f09407513589cc8/image.png)

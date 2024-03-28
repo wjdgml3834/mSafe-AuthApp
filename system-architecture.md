@@ -1,0 +1,1 @@
+[msafe_system_architecture.drawio-1.pdf](uploads/9ab07aa90088f18e414ea18d896f34b1/msafe_system_architecture.drawio-1.pdf)
